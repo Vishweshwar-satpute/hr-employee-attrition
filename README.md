@@ -3,11 +3,10 @@
 
 Details about the project 
 
-This prject was created as  a part od the INSAID capstone to help HR Advisries to detect possablie employees who may up quitting the orginazation The data was source from the HRMS where the details of al past and current employees were being recorded for the last15 years
+This prject was created as  a part of the INSAID capstone to help HR Advisories to detect possible employees who may endup quitting the organization. The data was source from the HRMS where the details of all past and current employees were being recorded for the last 15 years.
 
-Your client for this project is the HR Department at a software company.
-
-They want to try a new initiative to retain employees.
+Client for this project is the HR Department at a software company.
+  They want to try a new initiative to retain employees.
 The idea is to use data to predict whether an employee is likely to leave.
 Once these employees are identified, HR can be more proactive in reaching out to them before it's too late.
 They only want to deal with the data that is related to permanent employees.
